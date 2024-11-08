@@ -1,5 +1,5 @@
 function mul(num){
-    return num * 3
+    return num * 2
 }
 
 var x = 2
